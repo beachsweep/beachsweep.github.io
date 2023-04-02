@@ -1,0 +1,66 @@
+.component-container {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 438px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.component-container1 {
+  width: 100%;
+  display: flex;
+  max-width: 1440px;
+  align-items: flex-end;
+  flex-direction: column;
+}
+.component-description {
+  gap: var(--dl-space-space-fiveunits);
+  width: 100%;
+  display: flex;
+  max-width: 900px;
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-fiveunits);
+  padding-right: var(--dl-space-space-fiveunits);
+  flex-direction: column;
+}
+.component-content {
+  gap: var(--dl-space-space-threeunits);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.component-paragraph {
+  color: rgb(255, 255, 255);
+  width: 946px;
+  height: 509px;
+  font-size: 40px;
+  line-height: 60px;
+}
+.component-text {
+  font-weight: 700;
+}
+.component-text04 {
+  left: 48px;
+  color: rgb(255, 255, 255);
+  bottom: -770px;
+  position: absolute;
+  font-size: 38px;
+  font-style: normal;
+  margin-top: var(--dl-space-space-twounits);
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 60px;
+  margin-left: var(--dl-space-space-threeunits);
+  margin-right: var(--dl-space-space-threeunits);
+  margin-bottom: var(--dl-space-space-twounits);
+  text-transform: none;
+  text-decoration: none;
+}
+.component-text05 {
+  font-weight: 700;
+}
+.component-text06 {
+  font-weight: 700;
+}
